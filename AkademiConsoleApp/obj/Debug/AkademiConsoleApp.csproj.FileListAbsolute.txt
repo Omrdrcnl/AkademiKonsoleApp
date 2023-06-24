@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\bin\Debug\AkademiConsoleApp.exe.config
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\bin\Debug\AkademiConsoleApp.exe
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\bin\Debug\AkademiConsoleApp.pdb
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\obj\Debug\AkademiConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\obj\Debug\AkademiConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\obj\Debug\AkademiConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\obj\Debug\AkademiConsoleApp.exe
+C:\Users\ASUS\source\repos\AkademiConsoleApp\AkademiConsoleApp\obj\Debug\AkademiConsoleApp.pdb

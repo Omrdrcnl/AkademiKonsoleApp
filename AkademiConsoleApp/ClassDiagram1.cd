@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AkademiConsoleApp.Akademi" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Akademi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Kisi" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Akademi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Grup" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Akademi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Ogrenci" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAA=</HashCode>
+      <FileName>Akademi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Ogretmen" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Akademi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Ders" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Akademi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Program" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Sinav" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAAAAAAAAAAAAAAACAAACAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sinav.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Soru" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAIAAAIAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sinav.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AkademiConsoleApp.Yoklama" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAAEAEAA=</HashCode>
+      <FileName>Yoklama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AkademiConsoleApp.Siklar" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApAEAAAA=</HashCode>
+      <FileName>Sinav.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
