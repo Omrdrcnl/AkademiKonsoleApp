@@ -9,7 +9,7 @@ namespace AkademiConsoleApp
         static void Main(string[] args)
         {
             // Akademi nesneleri oluşturma
-            Akademi akademi1 = new Akademi("Akademi1", 12345);
+            Akademi akademi1 = new Akademi();
             akademi1.Adres = new Adres()
             {
                 Sehir = "İstanbul",
@@ -18,8 +18,13 @@ namespace AkademiConsoleApp
                 Sokak = "Örnek Sokak",
                 nu = 789
             };
+            akademi1.GrupOlusturmaYetkisi = true;
+            bool grupOlusturmaYetkisi = akademi1.GrupOlusturmaYetkisi;
 
-           // Ogrenci nesneleri oluşturma
+          
+
+
+            // Ogrenci nesneleri oluşturma
             Ogrenci ogrenci1 = new Ogrenci()
             {
                 Ad = "Ahmet",
@@ -74,11 +79,25 @@ namespace AkademiConsoleApp
                     },
                     TelNu = "5555555557",
                     HesapNu = "1234567890"
+
+                    //Sınav yapma yetkisi
+                 
+
                 }
             };
+            //Sınav yapma yetkisi
+
+            Ogretmen Ogretmen = new Ogretmen();
+            Ogretmen.SinavYapmaYetkisi = true;
+            bool SinavYapmaYetkisi = Ogretmen.SinavYapmaYetkisi;
+
+           
+
 
             // Sinav nesnesi oluşturma
             Sinav sinav = new Sinav(grup.Ogretmen, grup.OgrenciListesi, new List<Soru>(), "CEVAP", 90,  DateTime.Today);
+
+         
 
             // Yoklama nesnesi oluşturma
             YoklamaFisi yoklama = new YoklamaFisi(2, 1);

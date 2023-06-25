@@ -12,13 +12,11 @@ namespace AkademiConsoleApp
         public long VergiNu;
         public Adres Adres;
         private bool GrupOlusturma;
-        public Akademi(string ad, long vergiNu)
+        public bool GrupOlusturmaYetkisi
         {
-            Ad = ad;
-            VergiNu = vergiNu;
-            GrupOlusturma = true;
+            get { return GrupOlusturma; }
+            set { GrupOlusturma = value; }
         }
-
     }
     public class Adres
     {
@@ -57,7 +55,14 @@ namespace AkademiConsoleApp
     {
         public string HesapNu;
         public Ders Ders;
+        private bool SinavYapma;
 
+        public bool SinavYapmaYetkisi
+        {
+            get { return SinavYapma; }
+            set { SinavYapma = value; }
+        }
+       
     }
     public class Ders
     {
